@@ -1,0 +1,5 @@
+# To enable eibd at startup set this everything != NO
+START_LINKNX=NO
+
+# Daemon options
+# REMOTE_ARGS="--config=/etc/linknx/house.xml"

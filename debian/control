@@ -1,0 +1,21 @@
+Source: linknx
+Section: net
+Priority: extra
+Maintainer: Marc Leeman <marc.leeman@gmail.com>
+Build-Depends: debhelper (>= 7), autotools-dev, libpthsem-dev, liblog4cpp5-dev, libesmtp-dev, pkg-config, liblua5.1-0-dev, libssl-dev, quilt, libmysqlclient-dev, libcurl4-gnutls-dev
+Standards-Version: 3.8.3
+Homepage: https://sourceforge.net/projects/linknx/
+
+Package: linknx
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, adduser
+Suggests: eibd-server
+Description: KNX automation platform
+ Linknx is an automation platform providing high level functionalities
+ to EIB/KNX installation. The rules engine allows execution of actions
+ based on complex logical conditions and timers. Lightweight design
+ allows it to run on embedded Linux (OpenWRT).
+ .
+ KNX is a standard used by different vendors for control decentralised
+ home automation. Typical control includes light scenes, shutters,
+ heating, dimmers and more.

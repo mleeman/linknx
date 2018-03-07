@@ -1,0 +1,21 @@
+This package was debianized by Marc Leeman <marc.leeman@gmail.com> on
+Mon, 21 Sep 2009 11:17:15 +0200.
+
+It was downloaded from https://sourceforge.net/projects/linknx/
+
+Upstream Authors:
+
+    Jean-Francois Meessen <linknx@ouaye.net>  
+    Cyrille Demaret <zikibe@users.sourceforge.net>
+    
+Copyright:
+
+    <Copyright (C) 2009 Jean-Francois Meessen>
+    <Copyright (C) 2009 Cyrille Demaret>
+
+License:
+
+    GPL
+
+The Debian packaging is (C) 2009, Marc Leeman <marc.leeman@gmail.com> and
+is licensed under the GPL, see `/usr/share/common-licenses/GPL'.

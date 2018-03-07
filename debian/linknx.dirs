@@ -1,0 +1,9 @@
+etc/
+etc/linknx/
+usr/bin
+usr/share/doc/linknx/html/
+etc/init.d/
+etc/linknx/
+etc/default/
+var/lib/linknx/persist
+var/log/knx/

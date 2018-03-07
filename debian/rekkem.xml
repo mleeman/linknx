@@ -1,0 +1,689 @@
+<?xml version="1.0" ?>
+<config>
+    <objects>
+<object type="1.001" id="0_0_1" gad="0/0/1"><listener gad="3/0/0" /><listener gad="3/0/6" />Living Tafel  (on/off) </object>
+<object type="1.001" id="0_0_2" gad="0/0/2"><listener gad="3/0/0" /><listener gad="3/0/6" />Bureau  (on/off) </object>
+<object type="1.001" id="0_0_3" gad="0/0/3"><listener gad="3/0/0" /><listener gad="3/0/6" />Living Wand  (on/off) </object>
+<object type="1.001" id="0_0_4" gad="0/0/4"><listener gad="3/0/0" /><listener gad="3/0/6" /><listener gad="3/0/1" />Keuken Tafel  (on/off) </object>
+<object type="1.001" id="0_0_5" gad="0/0/5"><listener gad="3/0/0" /><listener gad="3/0/6" />Garage TL  (on/off) </object>
+<object type="1.001" id="0_0_6" gad="0/0/6"><listener gad="3/0/0" /><listener gad="3/0/6" />Inkom Wand  (on/off) </object>
+<object type="1.001" id="0_0_7" gad="0/0/7"><listener gad="3/0/0" /><listener gad="3/0/6" />Berging  (on/off) </object>
+<object type="1.001" id="0_0_8" gad="0/0/8"><listener gad="3/0/0" /><listener gad="3/0/6" />Wasplaats  (on/off) </object>
+<object type="1.001" id="0_0_9" gad="0/0/9"><listener gad="3/0/0" /><listener gad="3/0/6" />Garage Lamp  (on/off) </object>
+<object type="1.001" id="0_0_10" gad="0/0/10"><listener gad="3/0/0" /><listener gad="3/0/6" /><listener gad="3/0/1" />Keuken Voor Wand  (on/off) </object>
+<object type="1.001" id="0_0_11" gad="0/0/11"><listener gad="3/0/0" /><listener gad="3/0/6" /><listener gad="3/0/1" />Keuken Aanrecht  (on/off) </object>
+<object type="1.001" id="0_0_12" gad="0/0/12"><listener gad="3/0/0" /><listener gad="3/0/6" /><listener gad="3/0/1" />Keuken Wand Toestellen  (on/off) </object>
+<object type="1.001" id="0_0_13" gad="0/0/13"><listener gad="3/0/0" /><listener gad="3/0/6" />Nachthal Vooraan  (on/off) </object>
+<object type="1.001" id="0_0_14" gad="0/0/14"><listener gad="3/0/0" /><listener gad="3/0/6" />WC  (on/off) </object>
+<object type="1.001" id="0_0_15" gad="0/0/15"><listener gad="3/0/0" /><listener gad="3/0/5" />Nachthal Achteraan  (on/off) </object>
+<object type="1.001" id="0_0_16" gad="0/0/16"><listener gad="3/0/0" /><listener gad="3/0/5" />Chauffage contact Ketel CMFT  (on/off) </object>
+<object type="1.001" id="0_0_17" gad="0/0/17"><listener gad="3/0/0" /><listener gad="3/0/5" />Slaapkamer 1 Hoofd  (on/off) </object>
+<object type="1.001" id="0_0_18" gad="0/0/18"><listener gad="3/0/0" /><listener gad="3/0/5" />Dressing Slaapkamer 1  (on/off) </object>
+<object type="1.001" id="0_0_19" gad="0/0/19"><listener gad="3/0/0" /><listener gad="3/0/5" />Slaapkamer 2 Hoofd  (on/off) </object>
+<object type="1.001" id="0_0_20" gad="0/0/20"><listener gad="3/0/0" /><listener gad="3/0/5" />Slaapkamer 2 Dressing  (on/off) </object>
+<object type="1.001" id="0_0_21" gad="0/0/21"><listener gad="3/0/0" /><listener gad="3/0/5" />Slaapkamer 3 Hoofd  (on/off) </object>
+<object type="1.001" id="0_0_22" gad="0/0/22"><listener gad="3/0/0" /><listener gad="3/0/5" />Slaapkamer 3 Dressing  (on/off) </object>
+<object type="1.001" id="0_0_23" gad="0/0/23"><listener gad="3/0/0" /><listener gad="3/0/5" />Slaapkamer 4 (on/off) </object>
+<object type="1.001" id="0_0_24" gad="0/0/24"><listener gad="3/0/0" /><listener gad="3/0/5" />WC 1 (on/off) </object>
+<object type="1.001" id="0_0_25" gad="0/0/25"><listener gad="3/0/0" /><listener gad="3/0/5" />Badkamer Douche  (on/off) </object>
+<object type="1.001" id="0_0_26" gad="0/0/26"><listener gad="3/0/0" /><listener gad="3/0/5" />Badkamer BAD  (on/off) </object>
+<object type="1.001" id="0_0_27" gad="0/0/27"><listener gad="3/0/0" /><listener gad="3/0/5" />Slaapkamer 1 onder BED  (on/off) </object>
+<object type="1.001" id="0_0_28" gad="0/0/28"><listener gad="3/0/0" /><listener gad="3/0/5" />Zolder  (on/off) </object>
+<object type="1.001" id="0_0_29" gad="0/0/29"><listener gad="3/0/0" />Buiten Voordeur  (on/off) </object>
+<object type="1.001" id="0_0_30" gad="0/0/30"><listener gad="3/0/0" />Buiten Achtergevel  (on/off) </object>
+<object type="1.001" id="0_0_31" gad="0/0/31"><listener gad="3/0/0" />Buiten ZIJ gevel  (on/off) </object>
+<object type="1.001" id="0_0_32" gad="0/0/32">Poort  (on/off) </object>
+
+<object type="1.001" id="0_1_1" gad="0/1/1">Living Tafel  (status) </object>
+<object type="1.001" id="0_1_2" gad="0/1/2">Bureau  (status) </object>
+<object type="1.001" id="0_1_3" gad="0/1/3">Living Wand  (status) </object>
+<object type="1.001" id="0_1_4" gad="0/1/4">Keuken Tafel  (status) </object>
+<object type="1.001" id="0_1_5" gad="0/1/5">Garage TL  (status) </object>
+<object type="1.001" id="0_1_6" gad="0/1/6">Inkom Wand  (status) </object>
+<object type="1.001" id="0_1_7" gad="0/1/7">Berging  (status) </object>
+<object type="1.001" id="0_1_8" gad="0/1/8">Wasplaats  (status) </object>
+<object type="1.001" id="0_1_9" gad="0/1/9">Garage Lamp  (status) </object>
+<object type="1.001" id="0_1_10" gad="0/1/10">Keuken Voor Wand  (status) </object>
+<object type="1.001" id="0_1_11" gad="0/1/11">Keuken Aanrecht  (status) </object>
+<object type="1.001" id="0_1_12" gad="0/1/12">Keuken Wand Toestellen  (status) </object>
+<object type="1.001" id="0_1_13" gad="0/1/13">Nachthal Vooraan  (status) </object>
+<object type="1.001" id="0_1_14" gad="0/1/14">WC  (status) </object>
+<object type="1.001" id="0_1_15" gad="0/1/15">Nachthal Achteraan  (status) </object>
+<object type="1.001" id="0_1_16" gad="0/1/16">Chauffage contact Ketel CMFT  (status) </object>
+<object type="1.001" id="0_1_17" gad="0/1/17">Slaapkamer 1 Hoofd  (status) </object>
+<object type="1.001" id="0_1_18" gad="0/1/18">Dressing Slaapkamer 1  (status) </object>
+<object type="1.001" id="0_1_19" gad="0/1/19">Slaapkamer 2 Hoofd  (status) </object>
+<object type="1.001" id="0_1_20" gad="0/1/20">Slaapkamer 2 Dressing  (status) </object>
+<object type="1.001" id="0_1_21" gad="0/1/21">Slaapkamer 3 Hoofd  (status) </object>
+<object type="1.001" id="0_1_22" gad="0/1/22">Slaapkamer 3 Dressing  (status) </object>
+<object type="1.001" id="0_1_23" gad="0/1/23">Slaapkamer 4 (status) </object>
+<object type="1.001" id="0_1_24" gad="0/1/24">WC 1 (status) </object>
+<object type="1.001" id="0_1_25" gad="0/1/25">Badkamer Douche  (status) </object>
+<object type="1.001" id="0_1_26" gad="0/1/26">Badkamer BAD  (status) </object>
+<object type="1.001" id="0_1_27" gad="0/1/27">Slaapkamer 1 onder BED  (status) </object>
+<object type="1.001" id="0_1_28" gad="0/1/28">Zolder  (status) </object>
+<object type="1.001" id="0_1_29" gad="0/1/29">Buiten Voordeur  (status) </object>
+<object type="1.001" id="0_1_30" gad="0/1/30">Buiten Achtergevel  (status) </object>
+<object type="1.001" id="0_1_31" gad="0/1/31">Buiten ZIJ gevel  (status) </object>
+<object type="1.001" id="0_1_32" gad="0/1/32">Poort  (status) </object>
+
+<object type="1.001" id="0_2_7" gad="0/2/7">berging timed (status) </object>
+<object type="1.001" id="0_2_8" gad="0/2/8">wasplaats timed (status) </object>
+<object type="1.001" id="0_2_14" gad="0/2/14">wc timed (status) </object>
+
+<object type="1.001" id="1_0_0" gad="1/0/0">Living Bureau on/off (dimmen) </object>
+<object type="1.001" id="1_0_1" gad="1/0/1">Living Gang on/off (dimmen) </object>
+
+<object type="3.007" id="1_1_0" gad="1/1/0">dimmen Living Bureau on/off (dimmen) </object>
+<object type="3.007" id="1_1_1" gad="1/1/1">dimmen Living Gang on/off (dimmen) </object>
+
+<object type="5.xxx" id="1_2_0" gad="1/2/0">value Living Bureau on/off (dimmen) </object>
+<object type="5.xxx" id="1_2_1" gad="1/2/1">value Gang on/off (dimmen) </object>
+
+<object type="1.001" id="1_3_0" gad="1/3/0">value Living Bureau on/off (dimmen) </object>
+<object type="1.001" id="1_3_1" gad="1/3/1">value Living Gang on/off (dimmen) </object>
+
+<object type="1.001" id="1_4_0" gad="1/4/0">value Living Bureau on/off (dimmen) </object>
+<object type="1.001" id="1_4_1" gad="1/4/1">value Living Gang on/off (dimmen) </object>
+
+<object type="1.001" id="1_4_0" gad="1/4/0">switching value feedback Living Bureau on/off (dimmen) </object>
+<object type="1.001" id="1_4_1" gad="1/4/1">switching value feedback Living Gang on/off (dimmen) </object>
+
+<object type="5.xxx" id="1_4_0" gad="1/4/0">brightness value feedback Living Bureau on/off (dimmen) </object>
+<object type="5.xxx" id="1_4_1" gad="1/4/1">brightness value feedback Living Gang on/off (dimmen) </object>
+
+	<!-- 
+	    With this config, any info received for 3_0_4 will also
+	    update internal state of object "87" (without sending a write
+	    telegram for address 2_0_0 on the bus.). If "1.001" is modified,
+	    it will only send a write telegram for group address 2_0_0,
+	    not 3_0_4
+	-->
+
+<object type="1.001" id="2_0_0" gad="2/0/0"><listener gad="2/0/10" />kkn screen links (up/down) </object>
+<object type="1.001" id="2_0_1" gad="2/0/1"><listener gad="2/0/10" />kkn-Livingmidden (up/down) </object>
+<object type="1.001" id="2_0_2" gad="2/0/2"><listener gad="2/0/10" />living tuin rechts (up/down) </object>
+<object type="1.001" id="2_0_3" gad="2/0/3"><listener gad="2/0/10" />Livingzij klein links (up/down) </object>
+<object type="1.001" id="2_0_4" gad="2/0/4"><listener gad="2/0/10" />Livingzij klein rechts (up/down) </object>
+<object type="1.001" id="2_0_5" gad="2/0/5"><listener gad="2/0/11" />roll buro (up/down) </object>
+<object type="1.001" id="2_0_6" gad="2/0/6"><listener gad="2/0/20" /><listener gad="2/0/11" />Slaapkamer 4 Voor (up/down) </object>
+<object type="1.001" id="2_0_7" gad="2/0/7"><listener gad="2/0/20" /><listener gad="2/0/11" />Slaapkamer 4 ZIJ (up/down) </object>
+<object type="1.001" id="2_0_8" gad="2/0/8"><listener gad="2/0/10" />Screen TUIN 123 (up/down) </object>
+<object type="1.001" id="2_0_9" gad="2/0/9"><listener gad="2/0/10" />Screen Living ZIJ LR (up/down) </object>
+<object type="1.001" id="2_0_10" gad="2/0/10">Alle Screens (up/down) </object>
+<object type="1.001" id="2_0_11" gad="2/0/11">ROLLO Alle (up/down) </object>
+<object type="1.001" id="2_0_12" gad="2/0/12"><listener gad="2/0/20" /><listener gad="2/0/11" />Slaapkamer 1 Dressing (up/down) </object>
+<object type="1.001" id="2_0_13" gad="2/0/13"><listener gad="2/0/20" /><listener gad="2/0/11" />Slaapkamer 1 Achtergevel (up/down) </object>
+<object type="1.001" id="2_0_14" gad="2/0/14"><listener gad="2/0/20" /><listener gad="2/0/11" />Slaapkamer 2 MIDDEN (up/down) </object>
+<object type="1.001" id="2_0_15" gad="2/0/15"><listener gad="2/0/20" /><listener gad="2/0/11" />Slaapkamer 2 RECHTS (up/down) </object>
+<object type="1.001" id="2_0_16" gad="2/0/16"><listener gad="2/0/20" /><listener gad="2/0/11" />Slaapkamer 3 (up/down) </object>
+<object type="1.001" id="2_0_17" gad="2/0/17"><listener gad="2/0/20" /><listener gad="2/0/11" />_ (up/down) </object>
+<object type="1.001" id="2_0_18" gad="2/0/18"><listener gad="2/0/20" /><listener gad="2/0/11" />_ (up/down) </object>
+<object type="1.001" id="2_0_19" gad="2/0/19"><listener gad="2/0/20" /><listener gad="2/0/11" />_ (up/down) </object>
+<object type="1.001" id="all_shutters" gad="2/0/20"><listener gad="2/0/11" />ALLR ROLO Boven (up/down) </object>
+<object type="1.001" id="2_0_21" gad="2/0/21"><listener gad="2/0/20" /><listener gad="2/0/11" />Alle Slaapkamer 1 (up/down) </object>
+<object type="1.001" id="2_0_22" gad="2/0/22"><listener gad="2/0/20" /><listener gad="2/0/11" />Alle Slaapkamer 2 (up/down) </object>
+<object type="1.001" id="2_0_23" gad="2/0/23"><listener gad="2/0/20" /><listener gad="2/0/11" />Alle Slaapkamer 4 (up/down) </object>
+
+
+<object type="1.001" id="2_1_0" gad="2/1/0">kkn screen links (stop) </object>
+<object type="1.001" id="2_1_1" gad="2/1/1">kkn-Livingmidden (stop) </object>
+<object type="1.001" id="2_1_2" gad="2/1/2">living tuin rechts (stop) </object>
+<object type="1.001" id="2_1_3" gad="2/1/3">Livingzij klein links (stop) </object>
+<object type="1.001" id="2_1_4" gad="2/1/4">Livingzij klein rechts (stop) </object>
+<object type="1.001" id="2_1_5" gad="2/1/5">roll buro (stop) </object>
+<object type="1.001" id="2_1_6" gad="2/1/6">Slaapkamer 4 Voor (stop) </object>
+<object type="1.001" id="2_1_7" gad="2/1/7">Slaapkamer 4 ZIJ (stop) </object>
+<object type="1.001" id="2_1_8" gad="2/1/8">Screen TUIN 123 (stop) </object>
+<object type="1.001" id="2_1_9" gad="2/1/9">Screen Living ZIJ LR (stop) </object>
+<object type="1.001" id="2_1_10" gad="2/1/10">Alle Screens (stop) </object>
+<object type="1.001" id="2_1_11" gad="2/1/11">ROLLO Alle (stop) </object>
+<object type="1.001" id="2_1_12" gad="2/1/12">Slaapkamer 1 Dressing (stop) </object>
+<object type="1.001" id="2_1_13" gad="2/1/13">Slaapkamer 1 Achtergevel (stop) </object>
+<object type="1.001" id="2_1_14" gad="2/1/14">Slaapkamer 2 MIDDEN (stop) </object>
+<object type="1.001" id="2_1_15" gad="2/1/15">Slaapkamer 2 RECHTS (stop) </object>
+<object type="1.001" id="2_1_16" gad="2/1/16">Slaapkamer 3 (stop) </object>
+<object type="1.001" id="2_1_17" gad="2/1/17">_ (stop) </object>
+<object type="1.001" id="2_1_18" gad="2/1/18">_ (stop) </object>
+<object type="1.001" id="2_1_19" gad="2/1/19">_ (stop) </object>
+<object type="1.001" id="2_1_20" gad="2/1/20">ALLR ROLO Boven (stop) </object>
+<object type="1.001" id="2_1_21" gad="2/1/21">Alle Slaapkamer 1 (stop) </object>
+<object type="1.001" id="2_1_22" gad="2/1/22">Alle Slaapkamer 2 (stop) </object>
+<object type="1.001" id="2_1_23" gad="2/1/23">Alle Slaapkamer 4 (stop) </object>
+
+<!-- TODO: check if these addresses are correct -->
+<object type="1.001" id="3_0_0" gad="3/0/0">Alles (functions) </object>
+<object type="1.001" id="3_0_1" gad="3/0/1">Keuken (functions) </object>
+<object type="1.001" id="3_0_2" gad="3/0/2">Living (functions) </object>
+<object type="1.001" id="3_0_3" gad="3/0/3">Nachthal (functions) </object>
+<object type="1.001" id="3_0_4" gad="3/0/4">Garage (functions) </object>
+<object type="1.001" id="3_0_5" gad="3/0/5">Alles Boven (functions) </object>
+<object type="1.001" id="3_0_6" gad="3/0/6">Alles Beneden (functions) </object>
+<object type="1.001" id="3_0_7" gad="3/0/7">Alles Buiten (functions) </object>
+<object type="1.001" id="3_0_8" gad="3/0/8">Buiten Achter en ZIJ (functions) </object>
+<object type="1.001" id="holiday" gad="3/0/9" >Holiday Regime (functions) </object>
+<object type="1.001" id="3_1_1" gad="3/1/0">paniek (functions) </object>
+<object type="11.001" id="cur_date" gad="3/1/1">datum (functions) </object>
+<object type="10.001" id="cur_time" gad="3/1/2">tijd (functions) </object>
+
+<object type="1.001" id="4_0_0" gad="4/0/0">kleppen inkom - wc (status) </object>
+<object type="1.001" id="4_0_1" gad="4/0/1">kleppen living (status) </object>
+<object type="1.001" id="4_0_2" gad="4/0/2">kleppen buro (status) </object>
+<object type="1.001" id="4_0_3" gad="4/0/3">kleppen keuken (status) </object>
+<object type="1.001" id="4_0_4" gad="4/0/4">kleppen res (status) </object>
+<object type="1.001" id="4_0_5" gad="4/0/5">kleppen res (status) </object>
+<object type="1.001" id="4_0_6" gad="4/0/6">kleppen status (status) </object>
+<object type="1.001" id="4_0_7" gad="4/0/7">kleppen status (2) (status) </object>
+<object type="1.001" id="4_0_8" gad="4/0/8">kleppen status (3) (status) </object>
+<object type="1.001" id="4_0_9" gad="4/0/9">kleppen status (4) (status) </object>
+<object type="1.001" id="4_0_1" gad="4/0/1">kleppen status (5) (status) </object>
+<object type="1.001" id="4_0_1" gad="4/0/1">kleppen status (6) (status) </object>
+<object type="1.001" id="4_0_1" gad="4/0/1">kleppen inp1 berging kkn bew meld (status) </object>
+<object type="1.001" id="4_0_1" gad="4/0/1">kleppen inp2 wasplaats bew meld (status) </object>
+<object type="1.001" id="4_0_1" gad="4/0/1">kleppen inp3 wc bew meld (status) </object>
+<object type="1.001" id="4_0_1" gad="4/0/1">kleppen inp (4) (status) </object>
+<object type="1.001" id="4_0_1" gad="4/0/1">kleppen inp (5) (status) </object>
+<object type="1.001" id="4_0_1" gad="4/0/1">kleppen inp (6) (status) </object>
+
+<object type="9.xxx" id="4_1_0" gad="4/1/0">inkom actuele temp (status) </object>
+<object type="9.xxx" id="4_1_1" gad="4/1/1">inkom gewenste temp (status) </object>
+<object type="9.xxx" id="4_1_2" gad="4/1/2">inkom basis verschuiving temp (status) </object>
+<object type="1.001" id="4_1_3" gad="4/1/3">inkom vorst beveiliging (status) </object>
+<object type="1.001" id="4_1_4" gad="4/1/4">inkom nacht regime (status) </object>
+<object type="1.001" id="4_1_5" gad="4/1/5">inkom standby regime (status) </object>
+<object type="1.001" id="4_1_6" gad="4/1/6">inkom comfort regime (status) </object>
+<object type="1.001" id="4_1_7" gad="4/1/7">inkom verwarmen (status) </object>
+<object type="1.001" id="4_1_8" gad="4/1/8">inkom koelen (status) </object>
+<object type="1.001" id="4_1_9" gad="4/1/9">inkom regime HS (status) </object>
+<object type="1.001" id="4_1_10" gad="4/1/10">inkom venster (status) </object>
+<object type="1.001" id="4_1_11" gad="4/1/11">inkom status (status) </object>
+<object type="1.001" id="4_1_12" gad="4/1/12">inkom omschakelen airco-verwarmen (status) </object>
+<object type="20.102" id="4_1_13" gad="4/1/13">inkom KONNEX Betriebsmodiumschaltung (status) </object>
+<object type="1.001" id="4_1_14" gad="4/1/14">inkom KONNEX Zwangsobjekt-betriebsm (status) </object>
+<object type="1.001" id="4_1_15" gad="4/1/15">inkom schakelkanaal 1 (status) </object>
+<object type="1.001" id="4_1_16" gad="4/1/16">inkom schakelkanaal 2 (status) </object>
+
+<object type="9.xxx" id="4_2_0" gad="4/2/0">buro actuele temp (status) </object>
+<object type="9.xxx" id="4_2_1" gad="4/2/1">buro gewenste temp (status) </object>
+<object type="9.xxx" id="4_2_2" gad="4/2/2">buro basis verschuiving temp (status) </object>
+<object type="1.001" id="4_2_3" gad="4/2/3">buro vorst beveiliging (status) </object>
+<object type="1.001" id="4_2_4" gad="4/2/4">buro nacht regime (status) </object>
+<object type="1.001" id="4_2_5" gad="4/2/5">buro standby regime (status) </object>
+<object type="1.001" id="4_2_6" gad="4/2/6">buro comfort regime (status) </object>
+<object type="1.001" id="4_2_7" gad="4/2/7">buro verwarmen (status) </object>
+<object type="1.001" id="4_2_8" gad="4/2/8">buro koelen (status) </object>
+<object type="1.001" id="4_2_9" gad="4/2/9">buro regime HS (status) </object>
+<object type="1.001" id="4_2_10" gad="4/2/10">buro venster (status) </object>
+<object type="1.001" id="4_2_11" gad="4/2/11">buro status (status) </object>
+<object type="1.001" id="4_2_12" gad="4/2/12">buro omschakelen airco-verwarmen (status) </object>
+<object type="20.102" id="4_2_13" gad="4/2/13">buro KONNEX Betriebsmodiumschaltung (status) </object>
+<object type="1.001" id="4_2_14" gad="4/2/14">buro KONNEX Zwangsobjekt-betriebsm (status) </object>
+<object type="1.001" id="4_2_15" gad="4/2/15">buro schakelkanaal 1 (status) </object>
+<object type="1.001" id="4_2_16" gad="4/2/16">buro schakelkanaal 2 (status) </object>
+
+<object type="9.xxx" id="4_3_0" gad="4/3/0">living actuele temp (status) </object>
+<object type="9.xxx" id="4_3_1" gad="4/3/1">living gewenste temp (status) </object>
+<object type="9.xxx" id="4_3_2" gad="4/3/2">living basis temp (status) </object>
+<object type="1.001" id="4_3_3" gad="4/3/3">living vorst beveiliging (status) </object>
+<object type="1.001" id="4_3_4" gad="4/3/4">living nacht regime (status) </object>
+<object type="1.001" id="4_3_5" gad="4/3/5">living standby regime (status) </object>
+<object type="1.001" id="4_3_6" gad="4/3/6">living comfort regime (status) </object>
+<object type="1.001" id="4_3_7" gad="4/3/7">living verwarmen (status) </object>
+<object type="1.001" id="4_3_8" gad="4/3/8">living koelen (status) </object>
+<object type="1.001" id="4_3_9" gad="4/3/9">living regime HS (status) </object>
+<object type="1.001" id="4_3_10" gad="4/3/10">living venster (status) </object>
+<object type="1.001" id="4_3_11" gad="4/3/11">living status (status) </object>
+<object type="1.001" id="4_3_12" gad="4/3/12">living omschakelen airco-verwarmen (status) </object>
+<object type="20.102" id="4_3_13" gad="4/3/13">living KONNEX Betriebsmodiumschaltung (status) </object>
+<object type="1.001" id="4_3_14" gad="4/3/14">living KONNEX Zwangsobjekt-betriebsm (status) </object>
+
+<object type="9.xxx" id="4_4_0" gad="4/4/0">keuken actuele temp (status) </object>
+<object type="9.xxx" id="4_4_1" gad="4/4/1">keuken gewenste temp (status) </object>
+<object type="9.xxx" id="4_4_2" gad="4/4/2">keuken basis temp (status) </object>
+<object type="1.001" id="4_4_3" gad="4/4/3">keuken vorst beveiliging (status) </object>
+<object type="1.001" id="4_4_4" gad="4/4/4">keuken nacht regime (status) </object>
+<object type="1.001" id="4_4_5" gad="4/4/5">keuken standby regime (status) </object>
+<object type="1.001" id="4_4_6" gad="4/4/6">keuken comfort regime (status) </object>
+<object type="1.001" id="4_4_7" gad="4/4/7">keuken verwarmen (status) </object>
+<object type="1.001" id="4_4_8" gad="4/4/8">keuken koelen (status) </object>
+<object type="1.001" id="4_4_9" gad="4/4/9">keuken regime HS (status) </object>
+<object type="1.001" id="4_4_10" gad="4/4/10">keuken venster (status) </object>
+<object type="1.001" id="4_4_11" gad="4/4/11">keuken status (status) </object>
+<object type="1.001" id="4_4_12" gad="4/4/12">keuken omschakelen airco-verwarmen (status) </object>
+<object type="20.102" id="4_4_13" gad="4/4/13">keuken KONNEX Betriebsmodiumschaltung (status) </object>
+<object type="1.001" id="4_4_14" gad="4/4/14">keuken KONNEX Zwangsobjekt-betriebsm (status) </object>
+
+<object type="9.xxx" id="4_5_0" gad="4/5/0">badkamer actuele temp (status) </object>
+<object type="9.xxx" id="4_5_1" gad="4/5/1">badkamer gewenste temp (status) </object>
+<object type="9.xxx" id="4_5_2" gad="4/5/2">badkamer basis temp (status) </object>
+<object type="9.xxx" id="4_5_3" gad="4/5/3">badkamer vorst beveiliging (status) </object>
+<object type="1.001" id="4_5_4" gad="4/5/4">badkamer nacht regime (status) </object>
+<object type="1.001" id="4_5_5" gad="4/5/5">badkamer standby regime (status) </object>
+<object type="1.001" id="4_5_6" gad="4/5/6">badkamer comfort regime (status) </object>
+<object type="1.001" id="4_5_7" gad="4/5/7">badkamer verwarmen (status) </object>
+<object type="1.001" id="4_5_8" gad="4/5/8">badkamer koelen (status) </object>
+<object type="1.001" id="4_5_9" gad="4/5/9">badkamer regime HS (status) </object>
+<object type="1.001" id="4_5_10" gad="4/5/10">badkamer venster (status) </object>
+<object type="1.001" id="4_5_11" gad="4/5/11">badkamer status (status) </object>
+<object type="1.001" id="4_5_12" gad="4/5/12">badkamer omschakelen airco-verwarmen (status) </object>
+<object type="20.102" id="4_5_13" gad="4/5/13">badkamer KONNEX Betriebsmodiumschaltung (status) </object>
+<object type="1.001" id="4_5_14" gad="4/5/14">badkamer KONNEX Zwangsobjekt-betriebsm (status) </object>
+    </objects>
+    <services>
+        <knxconnection url="ip:127.0.0.1" />
+        <xmlserver type="inet" port="1028"/>
+        <emailserver type="smtp" host="localhost:25" from="marc.leeman@gmail.com"/>
+        <persistence type="file" path="/var/lib/linknx/persist" logpath="/var/log/linknx/"/>
+	<location lon="-3.41" lat="50.86"/>
+	<!-- exceptiondays for heating -->
+        <exceptiondays>
+            <date month="10" />
+            <date month="11" />
+            <date month="12" />
+            <date month="1" />
+            <date month="2" />
+            <date month="3" />
+        </exceptiondays>
+    </services>
+    <rules>
+        <!-- some general lights rules -->
+        <rule id="cur_time_date">
+            <condition type="timer" trigger="true">
+                <every>3600</every>
+            </condition>
+            <actionlist>
+	        <!-- set date and time on devices -->
+                <action type="set-value" id="cur_time" value="now" />
+                <action type="set-value" id="cur_date" value="now" />
+            </actionlist>
+        </rule>
+	<!-- heating automation -->
+	<!-- note that there are always to parts in the rule. The first
+	     one is the setting to turn up the heating. This is only
+	     needed during the exception months. However, turning off
+	     the heating is done _always_. This is to compensate for
+	     cold weather and manual control outside those exception
+	     months where heating is fully automated.
+	     This is also the reason why the 'until' is not used since
+	     it would only be valid during exception months. -->
+	<!-- kitchen and living room -->
+	<!-- frost protection upstairs -->
+	<!-- reset states at night -->
+	<!-- catch all, go to night for all at 23h -->
+
+<!-- rolluiken zomer: alles op om 12u, alles neer 21u -->
+	<!--
+        <rule id="shutters_up_summer">
+            <condition type='timer' trigger='true'>
+                <at hour="12" min="00" exception="no" />
+            </condition> 
+            <actionlist>
+                <action type="set-value" id="all_shutters" value="off" />
+            </actionlist>
+        </rule>
+	-->
+        <rule id="shutters_down_summer">
+            <condition type='timer' trigger='true'>
+	        <at type="sunset" offset="-20m" />
+            </condition> 
+            <actionlist>
+                <action type="set-value" id="all_shutters" value="on" />
+            </actionlist>
+        </rule>
+<!-- rolluiken winter: alles op 12u, alles neer 19u -->
+	<!--
+        <rule id="shutters_up_winter">
+            <condition type='timer' trigger='true'>
+                <at hour="12" min="00" exception="yes" />
+            </condition> 
+            <actionlist>
+                <action type="set-value" id="all_shutters" value="off" />
+            </actionlist>
+        </rule>
+        <rule id="shutters_down_winter">
+            <condition type='timer' trigger='true'>
+                <at hour="19" min="00" exception="no" />
+            </condition> 
+            <actionlist>
+                <action type="set-value" id="all_shutters" value="on" />
+            </actionlist>
+        </rule>
+	-->
+
+<!-- MA-VRIJ -->
+<!-- liv: -->
+<!-- 20gr 6-7u -->
+	<rule id="week_living_heating_morning_comfort">
+            <condition type="timer" trigger="true">
+                <!-- only during the exception months -->
+                <at hour="6" min="00" wdays="12345" />
+            </condition>
+	    <actionlist>
+	        <action type="set-value" id="4_3_13" value="comfort" />
+	    </actionlist>
+	</rule>
+	<rule id="week_living_heating_morning_night">
+            <condition type="timer" trigger="true">
+                <!-- only during the exception months -->
+                <at hour="7" min="00" wdays="12345" />
+            </condition>
+	    <actionlist>
+	        <action type="set-value" id="4_3_13" value="night" />
+	    </actionlist>
+	</rule>
+<!-- 20gr 16u30-21u30 -->
+	<rule id="week_living_heating_evening_comfort">
+            <condition type="timer" trigger="true">
+                <!-- only during the exception months -->
+                <at hour="16" min="30" wdays="12345" />
+            </condition>
+	    <actionlist>
+	        <action type="set-value" id="4_3_13" value="comfort" />
+	    </actionlist>
+	</rule>
+	<rule id="week_living_heating_evening_night">
+            <condition type="timer" trigger="true">
+                <!-- only during the exception months -->
+                <at hour="21" min="30" wdays="12345" />
+            </condition>
+	    <actionlist>
+	        <action type="set-value" id="4_3_13" value="night" />
+	    </actionlist>
+	</rule>
+<!-- 16gr rest dag -->
+
+<!-- kkn: -->
+<!-- 20gr 6-7u -->
+	<rule id="week_kitchen_heating_morning_comfort">
+            <condition type="timer" trigger="true">
+                <!-- only during the exception months -->
+                <at hour="6" min="00" wdays="12345" />
+            </condition>
+	    <actionlist>
+	        <action type="set-value" id="4_4_13" value="comfort" />
+	    </actionlist>
+	</rule>
+	<rule id="week_kitchen_heating_morning_night">
+            <condition type="timer" trigger="true">
+                <!-- only during the exception months -->
+                <at hour="7" min="00" wdays="12345" />
+            </condition>
+	    <actionlist>
+	        <action type="set-value" id="4_4_13" value="night" />
+	    </actionlist>
+	</rule>
+<!-- 20gr 16u30-21u30 -->
+	<rule id="week_kitchen_heating_evening_comfort">
+            <condition type="timer" trigger="true">
+                <!-- only during the exception months -->
+                <at hour="16" min="30" wdays="12345" />
+            </condition>
+	    <actionlist>
+	        <action type="set-value" id="4_4_13" value="comfort" />
+	    </actionlist>
+	</rule>
+	<rule id="week_kitchen_heating_evening_night">
+            <condition type="timer" trigger="true">
+                <!-- only during the exception months -->
+                <at hour="21" min="30" wdays="12345" />
+            </condition>
+	    <actionlist>
+	        <action type="set-value" id="4_4_13" value="night" />
+	    </actionlist>
+	</rule>
+<!-- 16gr rest dag -->
+
+<!-- bur: -->
+<!-- 20gr 16u30-21u30 -->
+	<rule id="week_bureau_heating_evening_comfort">
+            <condition type="timer" trigger="true">
+                <!-- only during the exception months -->
+                <at hour="16" min="30" wdays="12345" />
+            </condition>
+	    <actionlist>
+	        <action type="set-value" id="4_2_13" value="comfort" />
+	    </actionlist>
+	</rule>
+	<rule id="week_bureau_heating_evening_night">
+            <condition type="timer" trigger="true">
+                <!-- only during the exception months -->
+                <at hour="21" min="30" wdays="12345" />
+            </condition>
+	    <actionlist>
+	        <action type="set-value" id="4_2_13" value="night" />
+	    </actionlist>
+	</rule>
+<!-- 16gr rest dag -->
+
+<!-- badk: -->
+<!-- 22gr 6-7u -->
+	<rule id="week_bathroom_heating_morning_comfort">
+            <condition type="timer" trigger="true">
+                <!-- only during the exception months -->
+                <at hour="6" min="00" wdays="12345" />
+            </condition>
+	    <actionlist>
+	        <action type="set-value" id="4_5_13" value="comfort" />
+	    </actionlist>
+	</rule>
+	<rule id="week_bathroom_heating_morning_night">
+            <condition type="timer" trigger="true">
+                <!-- only during the exception months -->
+                <at hour="7" min="00" wdays="12345" />
+            </condition>
+	    <actionlist>
+	        <action type="set-value" id="4_5_13" value="night" />
+	    </actionlist>
+	</rule>
+<!-- 20gr 18u-20u -->
+	<rule id="week_bathroom_heating_evening_comfort">
+            <condition type="timer" trigger="true">
+                <!-- only during the exception months -->
+                <at hour="18" min="00" wdays="12345" />
+            </condition>
+	    <actionlist>
+	        <action type="set-value" id="4_5_13" value="comfort" />
+	    </actionlist>
+	</rule>
+	<rule id="week_bathroom_heating_evening_night">
+            <condition type="timer" trigger="true">
+                <!-- only during the exception months -->
+                <at hour="20" min="00" wdays="12345" />
+            </condition>
+	    <actionlist>
+	        <action type="set-value" id="4_5_13" value="night" />
+	    </actionlist>
+	</rule>
+<!-- 16gr rest dag -->
+
+
+<!-- ZA-ZO -->
+<!-- liv: -->
+<!-- 20gr 7u30-21u30 -->
+	<rule id="weekend_living_heating_comfort">
+            <condition type="timer" trigger="true">
+                <!-- only during the exception months -->
+                <at hour="7" min="30" wdays="67" />
+            </condition>
+	    <actionlist>
+	        <action type="set-value" id="4_3_13" value="comfort" />
+	    </actionlist>
+	</rule>
+	<rule id="weekend_living_heating_night">
+            <condition type="timer" trigger="true">
+                <!-- only during the exception months -->
+                <at hour="21" min="30" wdays="67" />
+            </condition>
+	    <actionlist>
+	        <action type="set-value" id="4_3_13" value="night" />
+	    </actionlist>
+	</rule>
+<!-- 16gr rest dag -->
+
+<!-- kkn: -->
+<!-- 20gr 7u30-21u30 -->
+	<rule id="weekend_kitchen_heating_comfort">
+            <condition type="timer" trigger="true">
+                <!-- only during the exception months -->
+                <at hour="7" min="30" wdays="67" />
+            </condition>
+	    <actionlist>
+	        <action type="set-value" id="4_4_13" value="comfort" />
+	    </actionlist>
+	</rule>
+	<rule id="weekend_kitchen_heating_night">
+            <condition type="timer" trigger="true">
+                <!-- only during the exception months -->
+                <at hour="21" min="30" wdays="67" />
+            </condition>
+	    <actionlist>
+	        <action type="set-value" id="4_4_13" value="night" />
+	    </actionlist>
+	</rule>
+<!-- 16gr rest dag -->
+
+<!-- bur: -->
+<!-- 20gr 7u30-21u30 -->
+	<rule id="weekend_bureau_heating_comfort">
+            <condition type="timer" trigger="true">
+                <!-- only during the exception months -->
+                <at hour="7" min="30" wdays="67" />
+            </condition>
+	    <actionlist>
+	        <action type="set-value" id="4_2_13" value="comfort" />
+	    </actionlist>
+	</rule>
+	<rule id="weekend_bureau_heating_night">
+            <condition type="timer" trigger="true">
+                <!-- only during the exception months -->
+                <at hour="21" min="30" wdays="67" />
+            </condition>
+	    <actionlist>
+	        <action type="set-value" id="4_2_13" value="night" />
+	    </actionlist>
+	</rule>
+<!-- 16gr rest dag -->
+
+<!-- badk: -->
+<!-- 22gr 7u30-9u -->
+	<rule id="weekend_bathroom_heating_morning_comfort">
+            <condition type="timer" trigger="true">
+                <!-- only during the exception months -->
+                <at hour="7" min="30" wdays="67" />
+            </condition>
+	    <actionlist>
+	        <action type="set-value" id="4_5_13" value="comfort" />
+	    </actionlist>
+	</rule>
+	<rule id="weekend_bathroom_heating_morning_night">
+            <condition type="timer" trigger="true">
+                <!-- only during the exception months -->
+                <at hour="9" min="00" wdays="67" />
+            </condition>
+	    <actionlist>
+	        <action type="set-value" id="4_5_13" value="night" />
+	    </actionlist>
+	</rule>
+<!-- 20gr 18u-20u -->
+	<rule id="weekend_bathroom_heating_evening_comfort">
+            <condition type="timer" trigger="true">
+                <!-- only during the exception months -->
+                <at hour="18" min="00" wdays="67" />
+            </condition>
+	    <actionlist>
+	        <action type="set-value" id="4_5_13" value="comfort" />
+	    </actionlist>
+	</rule>
+	<rule id="weekend_bathroom_heating_evening_night">
+            <condition type="timer" trigger="true">
+                <!-- only during the exception months -->
+                <at hour="20" min="00" wdays="67" />
+            </condition>
+	    <actionlist>
+	        <action type="set-value" id="4_5_13" value="night" />
+	    </actionlist>
+	</rule>
+<!-- 16gr rest dag -->
+<!-- Holiday Rules -->
+<!-- Shutters upstrairs up at 9h20 -->
+<!-- Shutters downstairs up at 9h35 -->
+<!-- Shutters bureau down at 21h00 -->
+        <rule id="holiday0">
+	    <condition type="and">
+		<condition type="object" id="holiday" value="on" />
+                <condition type='timer' trigger='true'>
+                    <at hour="21" min="00" />
+                </condition> 
+	    </condition>
+            <actionlist>
+                <action type="set-value" id="2_0_5" value="on" />
+            </actionlist>
+        </rule>
+        <rule id="holiday1">
+	    <condition type="and">
+		<condition type="object" id="holiday" value="on" />
+                <condition type='timer' trigger='true'>
+                    <at hour="09" min="20" />
+                </condition> 
+	    </condition>
+            <actionlist>
+                <action type="set-value" id="all_shutters" value="off" />
+            </actionlist>
+        </rule>
+        <rule id="holiday2">
+	    <condition type="and">
+		<condition type="object" id="holiday" value="on" />
+                <condition type='timer' trigger='true'>
+                    <at hour="09" min="35" />
+                </condition> 
+	    </condition>
+            <actionlist>
+                <action type="set-value" id="2_0_5" value="off" />
+            </actionlist>
+        </rule>
+        <rule id="holiday3">
+	    <condition type="and">
+		<condition type="object" id="holiday" value="on" />
+                <condition type='timer' trigger='true'>
+                    <at hour="22" min="20" />
+                </condition>
+	    </condition>
+            <actionlist>
+                <action type="set-value" id="0_0_6" value="on" />
+            </actionlist>
+        </rule>
+        <rule id="holiday4">
+	    <condition type="and">
+		<condition type="object" id="holiday" value="on" />
+                <condition type='timer' trigger='true'>
+                    <at hour="22" min="40" />
+                </condition> 
+	    </condition>
+            <actionlist>
+                <action type="set-value" id="0_0_6" value="off" />
+            </actionlist>
+        </rule>
+        <rule id="holiday5">
+	    <condition type="and">
+		<condition type="object" id="holiday" value="on" />
+                <condition type='timer' trigger='true'>
+                    <at hour="21" min="20" />
+                </condition> 
+	    </condition>
+            <actionlist>
+                <action type="set-value" id="0_0_11" value="on" />
+            </actionlist>
+        </rule>
+        <rule id="holiday6">
+	    <condition type="and">
+		<condition type="object" id="holiday" value="on" />
+                <condition type='timer' trigger='true'>
+                    <at hour="22" min="19" />
+                </condition> 
+	    </condition>
+            <actionlist>
+                <action type="set-value" id="0_0_11" value="off" />
+            </actionlist>
+        </rule>
+    </rules>
+</config>

@@ -1,0 +1,122 @@
+linknx (0.0.1.36-1) unstable; urgency=low
+
+  * New upstream release
+
+ -- Marc Leeman <marc.leeman@barco.com>  Wed, 07 Mar 2018 13:10:36 +0100
+
+linknx (0.0.1.30-1) unstable; urgency=low
+
+  * New upstream release
+
+ -- Marc Leeman <marc.leeman@gmail.com>  Mon, 04 Jun 2012 22:19:03 +0200
+
+linknx (0.0.1.28-3) unstable; urgency=low
+
+  * Update for squeeze
+  * revert dependency to libmysqlclient-dev
+
+ -- Marc Leeman <marc.leeman@gmail.com>  Tue, 06 Dec 2011 13:43:09 +0100
+
+linknx (0.0.1.28-2) unstable; urgency=low
+
+  * Update house.xml with complexer rules
+  * Add build dependency libmysqlclient15-dev instead of libmysqlclient-dev
+
+ -- Marc Leeman <marc.leeman@gmail.com>  Tue, 06 Dec 2011 11:26:38 +0100
+
+linknx (0.0.1.28-1) unstable; urgency=low
+
+  * New upstream release
+
+ -- Marc Leeman <marc.leeman@gmail.com>  Mon, 18 Apr 2011 10:41:35 +0200
+
+linknx (0.0.1.27-5) unstable; urgency=low
+
+  * Squeeze update: remove libmysqlclient15off-dev from build dependencies
+    and replace with libmysqlclient-dev
+  * update rekkem configuration to listen to all-off
+
+ -- Marc Leeman <marc.leeman@gmail.com>  Tue, 29 Mar 2011 07:48:44 +0200
+
+linknx (0.0.1.27-4) unstable; urgency=low
+
+  * add rekkem.xml as another example file in /etc/linknx
+
+ -- Marc Leeman <marc.leeman@gmail.com>  Sun, 05 Sep 2010 21:26:26 +0200
+
+linknx (0.0.1.27-3) unstable; urgency=low
+
+  * fix examples in house.xml code to include stateless objects
+
+ -- Marc Leeman <marc.leeman@gmail.com>  Tue, 13 Apr 2010 12:38:59 +0200
+
+linknx (0.0.1.27-2) unstable; urgency=low
+
+  * make house.xml a config file
+  * elaborate on house.xml rules
+  * update listeners for example house.xml
+
+ -- Marc Leeman <marc.leeman@gmail.com>  Thu, 01 Apr 2010 15:41:53 +0200
+
+linknx (0.0.1.27-1) unstable; urgency=low
+
+  * New upstream release
+  * Add dependency to pthsem-dev | libpthsem-dev; rename in newer versions of
+    pthsem (2.0.8)
+
+ -- Marc Leeman <marc.leeman@gmail.com>  Fri, 05 Mar 2010 11:04:02 +0100
+
+linknx (0.0.1.26-8) unstable; urgency=low
+
+  * Include feedback from Steffen M�lle
+
+ -- Marc Leeman <marc.leeman@gmail.com>  Sun, 17 Jan 2010 21:46:45 +0100
+
+linknx (0.0.1.26-7) unstable; urgency=low
+
+  * update configuration file house.xml
+
+ -- Marc Leeman <marc.leeman@gmail.com>  Thu, 03 Dec 2009 14:03:52 +0100
+
+linknx (0.0.1.26-6) unstable; urgency=low
+
+  * fix a number of example config file errors
+
+ -- Marc Leeman <marc.leeman@gmail.com>  Tue, 10 Nov 2009 15:11:27 +0100
+
+linknx (0.0.1.26-5) unstable; urgency=low
+
+  * automatically start application
+  * add correct dependencies to the start scripts
+
+ -- Marc Leeman <marc.leeman@gmail.com>  Fri, 23 Oct 2009 13:48:48 +0200
+
+linknx (0.0.1.26-4) unstable; urgency=low
+
+  * add timermanager.patch
+  * compile with mysql support
+  * uncompress && install HTML docs
+
+ -- Marc Leeman <marc.leeman@gmail.com>  Thu, 15 Oct 2009 10:53:13 +0200
+
+linknx (0.0.1.26-3) unstable; urgency=low
+
+  * run as user knx
+  * do not start automatically
+  * store logging/pids in /var/run/knx/
+
+ -- Marc Leeman <marc.leeman@gmail.com>  Tue, 13 Oct 2009 10:59:28 +0200
+
+linknx (0.0.1.26-2) unstable; urgency=low
+
+  * updated house.xml
+  * updated copyright with correct names
+
+ -- Marc Leeman <marc.leeman@gmail.com>  Mon, 12 Oct 2009 15:44:17 +0200
+
+linknx (0.0.1.26-1) unstable; urgency=low
+
+  * Initial release
+
+ -- Marc Leeman <marc.leeman@gmail.com>  Mon, 21 Sep 2009 11:17:15 +0200
+

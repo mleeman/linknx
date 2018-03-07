@@ -1,0 +1,13 @@
+linknx for Debian
+-----------------
+
+See the website for more detailed information
+(http://linknx.sourceforge.net/). These packages provide a framework
+to configure your KNX installation. Without proper configuration and a
+description of your installation; this will do nothing for you.
+
+See the example configuration file in /etc/linknx/house.xml. Make certain
+you have configured eibd-server before testing your linknx setup (you
+probably want to connect it with your IP router device).
+
+ -- Marc Leeman <marc.leeman@gmail.com>  Mon, 21 Sep 2009 11:17:15 +0200

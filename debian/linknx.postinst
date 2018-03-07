@@ -1,0 +1,50 @@
+#!/bin/sh
+
+set -e
+
+case "${1}" in
+	configure)
+		_USERNAME="knx"
+		_DIRECTORY="/var/run/knx"
+		_LOGDIR="/var/log/knx"
+
+		if ! getent passwd | grep -q "^${_USERNAME}"
+		then
+			adduser --system --home ${_DIRECTORY} --no-create-home --quiet --gecos 'KNX Automation' --group ${_USERNAME}
+		else
+			echo "KNX Automation user (${_USERNAME}) already exists, doing nothing."
+		fi
+
+		if [ ! -d "${_DIRECTORY}" ]
+		then
+			mkdir -p "${_DIRECTORY}"
+			chown ${_USERNAME}:nogroup ${_DIRECTORY} -R
+		else
+			echo
+			echo "KNX Automation directory (${_DIRECTORY}) already exists, doing nothing."
+		fi
+
+		if [ ! -d "${_LOGDIR}" ]
+		then
+			mkdir -p "${_LOGDIR}"
+			chown ${_USERNAME}:nogroup ${_LOGDIR} -R
+		else
+			echo
+			echo "KNX Automation directory (${_LOGDIR}) already exists, doing nothing."
+		fi
+
+		;;
+
+	abort-upgrade|abort-remove|abort-deconfigure)
+
+		;;
+
+	*)
+		echo "postinst called with unknown argument \`${1}'" >&2
+		exit 1
+		;;
+esac
+
+#DEBHELPER#
+
+exit 0
