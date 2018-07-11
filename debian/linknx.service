@@ -1,0 +1,12 @@
+[Unit]
+Description=LinKNX Server Daemon
+After=network.target
+
+[Service]
+User=knx
+Type=forking
+ExecStart=/usr/bin/linknx --daemon=/var/log/knx/linknx.log --pid-file=/var/run/knx/linknx.pid --config=/etc/linknx/house.xml
+Restart=on-failure
+
+[Install]
+WantedBy=multi-user.target
