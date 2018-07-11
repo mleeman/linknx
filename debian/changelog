@@ -1,3 +1,11 @@
+linknx (0.0.1.37~debian9+2) unstable; urgency=medium
+
+  * linknx: add user in preinst
+  * linknx: add service file
+  * debian: remove linknx.init.d duplicate file
+
+ -- Marc Leeman <marc.leeman@barco.com>  Wed, 11 Jul 2018 10:56:10 +0200
+
 linknx (0.0.1.37~debian9+1) unstable; urgency=low
 
   * New upstream release
