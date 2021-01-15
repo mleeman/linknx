@@ -2,8 +2,18 @@ Source: linknx
 Section: net
 Priority: extra
 Maintainer: Marc Leeman <marc.leeman@gmail.com>
-Build-Depends: debhelper (>= 10), autotools-dev, libpthsem-dev, liblog4cpp5-dev, libesmtp-dev, pkg-config, liblua5.1-0-dev, libssl-dev, quilt, default-libmysqlclient-dev, libcurl4-gnutls-dev
-Standards-Version: 4.1.3
+Build-Depends: debhelper (>= 10),
+                autotools-dev,
+                libpthsem-dev,
+                liblog4cpp5-dev,
+                libesmtp-dev,
+                pkg-config,
+                liblua5.1-0-dev,
+                libssl-dev,
+                quilt,
+                default-libmysqlclient-dev,
+                libcurl4-gnutls-dev
+Standards-Version: 4.3.0
 Homepage: https://sourceforge.net/projects/linknx/
 
 Package: linknx
