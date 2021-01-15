@@ -1,16 +1,16 @@
 Source: linknx
 Section: net
-Priority: extra
+Priority: optional
 Maintainer: Marc Leeman <marc.leeman@gmail.com>
+Uploaders: Marc Leeman <m.leeman@televic.com>,
 Build-Depends: debhelper (>= 10),
-                autotools-dev,
                 libpthsem-dev,
                 liblog4cpp5-dev,
                 libesmtp-dev,
                 pkg-config,
+                quilt,
                 liblua5.1-0-dev,
                 libssl-dev,
-                quilt,
                 default-libmysqlclient-dev,
                 libcurl4-gnutls-dev
 Standards-Version: 4.3.0
