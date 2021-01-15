@@ -1,0 +1,6 @@
+embedded-library
+
+# Bullseye style lintian override
+no-manual-page
+# Buster style lintian override
+binary-without-manpage

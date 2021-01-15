@@ -1,3 +1,9 @@
+linknx (0.0.1.37~televic10+1) buster-televic-unstable; urgency=medium
+
+  * Debian buster port
+
+ -- Marc Leeman <m.leeman@televic.com>  Fri, 15 Jan 2021 09:16:20 +0100
+
 linknx (0.0.1.37~debian9+2) unstable; urgency=medium
 
   * linknx: add user in preinst
