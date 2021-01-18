@@ -18,8 +18,10 @@ Homepage: https://sourceforge.net/projects/linknx/
 
 Package: linknx
 Architecture: any
-Depends: ${shlibs:Depends}, ${misc:Depends}, adduser
-Suggests: eibd-server
+Depends: ${shlibs:Depends},
+          ${misc:Depends},
+          adduser,
+          eibd-server
 Description: KNX automation platform
  Linknx is an automation platform providing high level functionalities
  to EIB/KNX installation. The rules engine allows execution of actions

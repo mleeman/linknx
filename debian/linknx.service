@@ -1,6 +1,6 @@
 [Unit]
 Description=LinKNX Server Daemon
-After=network.target
+After=network.target eibd-server.service
 
 [Service]
 User=knx
