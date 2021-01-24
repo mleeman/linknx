@@ -1,0 +1,15 @@
+/var/log/knx/*
+{
+  maxsize 50M
+  rotate 10
+  missingok
+  notifempty
+  delaycompress
+  compress
+  dateext
+  dateformat -%Y%m%d_%s
+  postrotate
+    invoke-rc.d linknx restart > /dev/null
+  endscript
+}
+
