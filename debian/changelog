@@ -1,4 +1,4 @@
-linknx (0.0.1.37~televic10+1) buster-televic-unstable; urgency=medium
+linknx (0.0.1.37~bpo10+1) buster-backports; urgency=medium
 
   * Debian buster port
 
